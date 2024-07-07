@@ -15,7 +15,7 @@ particularly through the lens of the ray-tracing algorithm.
 
 # How is image created?
 
-<img src="./media/visualize-picture.png" alt="drawing" width="500px" style="display: block; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 20px;" />
+<img src="../media/visualize-picture.png" alt="drawing" width="500px" style="display: block; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 20px;" />
 
 this conceptual slice is termed the **image plane**, akin to a canvas for artists.
 
@@ -23,7 +23,7 @@ this conceptual slice is termed the **image plane**, akin to a canvas for artist
 
 # Perspective projection
 
-<img src="./media/project-object.png" alt="drawing" width="500px" style="display: block; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 20px;" />
+<img src="../media/project-object.png" alt="drawing" width="500px" style="display: block; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 20px;" />
 
 a technique that translates 3D objects into 2D images is known as **perspective projection**.
 
